@@ -1,0 +1,17 @@
+name: Kaia_5m_Reload
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: node update.js
+      - name: Push
+        run: |
+          git config --local user.name "Bot"
+          git add .
+          git commit -m "Reload" || exit 0
+          git push
