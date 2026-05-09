@@ -6,7 +6,7 @@ function update() {
     const currentSlot = Math.floor(((vnTime.getHours() * 60) + vnTime.getMinutes()) / 5);
 
     // CHỈNH OFFSET Ở ĐÂY NẾU BỊ LỆCH (Ví dụ: 1 hoặc -1)
-    const OFFSET = 0; 
+    const OFFSET = 1; 
 
     data.seeds.forEach(s => s.status = false);
     data.weather.forEach(w => w.status = false);
