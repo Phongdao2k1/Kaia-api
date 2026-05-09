@@ -1,17 +1,31 @@
 name: Kaia_5m_Reload
+
 on:
   schedule:
     - cron: '*/5 * * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Để bạn bấm nút chạy thử thủ công
+
 jobs:
   run:
     runs-on: ubuntu-latest
+    permissions: # Cấp quyền ghi trực tiếp trong file code
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - run: node update.js
-      - name: Push
+      - name: Checkout mã nguồn
+        uses: actions/checkout@v4 # Cập nhật version mới nhất
+
+      - name: Cài đặt Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Dùng Node 20 để hết cảnh báo vàng
+
+      - name: Chạy script cập nhật
+        run: node update.js
+
+      - name: Đẩy dữ liệu mới lên GitHub
         run: |
-          git config --local user.name "Bot"
-          git add .
-          git commit -m "Reload" || exit 0
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add realtime.json
+          git commit -m "Auto Reload Kaia Data" || exit 0
           git push
