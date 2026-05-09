@@ -1,14 +1,23 @@
 const fs = require('fs');
-let data = JSON.parse(fs.readFileSync('./realtime.json', 'utf8'));
-const minutes = new Date(new Date().getTime() + 7*60*60*1000).getMinutes();
-const slot = Math.floor(minutes / 5);
 
-// Reset & Bật ngẫu nhiên để mô phỏng game reload 5p
-data.seeds.forEach(s => s.status = false);
-data.weather.forEach(w => w.status = false);
+function update() {
+    const data = JSON.parse(fs.readFileSync('./realtime.json', 'utf8'));
+    const vnTime = new Date(new Date().getTime() + (7 * 60 * 60 * 1000));
+    const currentSlot = Math.floor(((vnTime.getHours() * 60) + vnTime.getMinutes()) / 5);
 
-data.seeds[slot % data.seeds.length].status = true;
-data.weather[slot % data.weather.length].status = true;
-data.tools[0].status = true; // Luôn bật vòi tưới thường
+    // CHỈNH OFFSET Ở ĐÂY NẾU BỊ LỆCH (Ví dụ: 1 hoặc -1)
+    const OFFSET = 0; 
 
-fs.writeFileSync('./realtime.json', JSON.stringify(data, null, 2));
+    data.seeds.forEach(s => s.status = false);
+    data.weather.forEach(w => w.status = false);
+
+    const seedIndex = (currentSlot + OFFSET + data.seeds.length) % data.seeds.length;
+    const weatherIndex = (currentSlot + OFFSET + data.weather.length) % data.weather.length;
+
+    data.seeds[seedIndex].status = true;
+    data.weather[weatherIndex].status = true;
+
+    fs.writeFileSync('./realtime.json', JSON.stringify(data, null, 2));
+    console.log(`Updated at ${vnTime.getHours()}:${vnTime.getMinutes()} - Seed: ${data.seeds[seedIndex].name}`);
+}
+update();
