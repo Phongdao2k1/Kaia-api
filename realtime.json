@@ -1,48 +1,216 @@
 {
   "seeds": [
-    { "name": "Hạt cà rốt", "icon": "🥕", "status": false },
-    { "name": "Hạt dâu tây", "icon": "🍓", "status": false },
-    { "name": "Hạt giống hoa nghệ tây (trắng)", "icon": "🌷", "status": false },
-    { "name": "Hạt giống hoa hải quỳ (trắng)", "icon": "🌻", "status": false },
-    { "name": "Hạt việt quất", "icon": "🫐", "status": false },
-    { "name": "Hạt giống hoa liên kiều", "icon": "✨", "status": false },
-    { "name": "Hạt giống tulip (trắng)", "icon": "🌷", "status": false },
-    { "name": "Hạt giống hoa đỗ quyên (trắng)", "icon": "🌺", "status": false },
-    { "name": "Hạt giống hoa mộc lan (trắng)", "icon": "🏵️", "status": false },
-    { "name": "Hạt nấm", "icon": "🍄", "status": false },
-    { "name": "Hạt bắp", "icon": "🌽", "status": false },
-    { "name": "Hạt cà chua", "icon": "🍅", "status": false },
-    { "name": "Hạt giống sung", "icon": "🍒", "status": false },
-    { "name": "Hạt giống hoa thủy tiên (trắng)", "icon": "🌼", "status": false },
-    { "name": "Hạt giống hoa mận (trắng)", "icon": "💮", "status": false },
-    { "name": "Hạt xương rồng", "icon": "🌵", "status": false },
-    { "name": "Hạt táo", "icon": "🍎", "status": false },
-    { "name": "Hạt nho", "icon": "🍇", "status": false },
-    { "name": "Hạt giống măng cụt", "icon": "🫐", "status": false },
-    { "name": "Hạt bí ngô", "icon": "🎃", "status": false },
-    { "name": "Hạt giống hoa anh đào (trắng)", "icon": "🌸", "status": false },
-    { "name": "Hạt dưa hấu", "icon": "🍉", "status": false },
-    { "name": "Hạt dừa", "icon": "🥥", "status": false },
-    { "name": "Hạt xoài", "icon": "🥭", "status": false },
-    { "name": "Hạt đu đủ", "icon": "🍐", "status": false },
-    { "name": "Hạt cây đậu", "icon": "🫛", "status": false },
-    { "name": "Hạt khế", "icon": "🍋", "status": false },
-    { "name": "Hạt táo đường", "icon": "🍏", "status": false }
+    {
+      "name": "Hạt cà rốt",
+      "icon": "🥕",
+      "status": false
+    },
+    {
+      "name": "Hạt dâu tây",
+      "icon": "🍓",
+      "status": false
+    },
+    {
+      "name": "Hạt giống hoa nghệ tây (trắng)",
+      "icon": "🌷",
+      "status": false
+    },
+    {
+      "name": "Hạt giống hoa hải quỳ (trắng)",
+      "icon": "🌻",
+      "status": false
+    },
+    {
+      "name": "Hạt việt quất",
+      "icon": "🫐",
+      "status": false
+    },
+    {
+      "name": "Hạt giống hoa liên kiều",
+      "icon": "✨",
+      "status": false
+    },
+    {
+      "name": "Hạt giống tulip (trắng)",
+      "icon": "🌷",
+      "status": false
+    },
+    {
+      "name": "Hạt giống hoa đỗ quyên (trắng)",
+      "icon": "🌺",
+      "status": false
+    },
+    {
+      "name": "Hạt giống hoa mộc lan (trắng)",
+      "icon": "🏵️",
+      "status": false
+    },
+    {
+      "name": "Hạt nấm",
+      "icon": "🍄",
+      "status": false
+    },
+    {
+      "name": "Hạt bắp",
+      "icon": "🌽",
+      "status": false
+    },
+    {
+      "name": "Hạt cà chua",
+      "icon": "🍅",
+      "status": true
+    },
+    {
+      "name": "Hạt giống sung",
+      "icon": "🍒",
+      "status": false
+    },
+    {
+      "name": "Hạt giống hoa thủy tiên (trắng)",
+      "icon": "🌼",
+      "status": false
+    },
+    {
+      "name": "Hạt giống hoa mận (trắng)",
+      "icon": "💮",
+      "status": false
+    },
+    {
+      "name": "Hạt xương rồng",
+      "icon": "🌵",
+      "status": false
+    },
+    {
+      "name": "Hạt táo",
+      "icon": "🍎",
+      "status": false
+    },
+    {
+      "name": "Hạt nho",
+      "icon": "🍇",
+      "status": false
+    },
+    {
+      "name": "Hạt giống măng cụt",
+      "icon": "🫐",
+      "status": false
+    },
+    {
+      "name": "Hạt bí ngô",
+      "icon": "🎃",
+      "status": false
+    },
+    {
+      "name": "Hạt giống hoa anh đào (trắng)",
+      "icon": "🌸",
+      "status": false
+    },
+    {
+      "name": "Hạt dưa hấu",
+      "icon": "🍉",
+      "status": false
+    },
+    {
+      "name": "Hạt dừa",
+      "icon": "🥥",
+      "status": false
+    },
+    {
+      "name": "Hạt xoài",
+      "icon": "🥭",
+      "status": false
+    },
+    {
+      "name": "Hạt đu đủ",
+      "icon": "🍐",
+      "status": false
+    },
+    {
+      "name": "Hạt cây đậu",
+      "icon": "🫛",
+      "status": false
+    },
+    {
+      "name": "Hạt khế",
+      "icon": "🍋",
+      "status": false
+    },
+    {
+      "name": "Hạt táo đường",
+      "icon": "🍏",
+      "status": false
+    }
   ],
   "weather": [
-    { "name": "Tuyết", "icon": "❄️", "status": false },
-    { "name": "Mưa", "icon": "🌧️", "status": false },
-    { "name": "Bão", "icon": "⚡", "status": false },
-    { "name": "Sương mù", "icon": "🌫️", "status": false },
-    { "name": "Sương sớm", "icon": "🌬️", "status": false },
-    { "name": "Ánh trăng", "icon": "🌕", "status": false },
-    { "name": "Cực quang", "icon": "🌌", "status": false },
-    { "name": "Gió", "icon": "🍃", "status": false },
-    { "name": "Nắng nóng", "icon": "☀️", "status": false },
-    { "name": "Gió cát", "icon": "🌪️", "status": false },
-    { "name": "Bảo tuyết", "icon": "🌨️", "status": false },
-    { "name": "Gió xuân", "icon": "🌸🍃", "status": false },
-    { "name": "Giai điệu", "icon": "🎵", "status": false },
-    { "name": "Sóng điện từ", "icon": "📟", "status": false }
+    {
+      "name": "Tuyết",
+      "icon": "❄️",
+      "status": false
+    },
+    {
+      "name": "Mưa",
+      "icon": "🌧️",
+      "status": false
+    },
+    {
+      "name": "Bão",
+      "icon": "⚡",
+      "status": false
+    },
+    {
+      "name": "Sương mù",
+      "icon": "🌫️",
+      "status": false
+    },
+    {
+      "name": "Sương sớm",
+      "icon": "🌬️",
+      "status": false
+    },
+    {
+      "name": "Ánh trăng",
+      "icon": "🌕",
+      "status": false
+    },
+    {
+      "name": "Cực quang",
+      "icon": "🌌",
+      "status": false
+    },
+    {
+      "name": "Gió",
+      "icon": "🍃",
+      "status": false
+    },
+    {
+      "name": "Nắng nóng",
+      "icon": "☀️",
+      "status": false
+    },
+    {
+      "name": "Gió cát",
+      "icon": "🌪️",
+      "status": false
+    },
+    {
+      "name": "Bảo tuyết",
+      "icon": "🌨️",
+      "status": false
+    },
+    {
+      "name": "Gió xuân",
+      "icon": "🌸🍃",
+      "status": true
+    },
+    {
+      "name": "Giai điệu",
+      "icon": "🎵",
+      "status": false
+    },
+    {
+      "name": "Sóng điện từ",
+      "icon": "📟",
+      "status": false
+    }
   ]
 }
