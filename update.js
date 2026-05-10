@@ -16,7 +16,7 @@ function update() {
         const currentSlot = Math.floor(totalMinutes / 5);
 
         // Biến OFFSET để chỉnh độ lệch (nếu sai hạt thì sửa số này)
-        const OFFSET = 0; 
+        const OFFSET = -1; 
 
         // Reset trạng thái cũ
         data.seeds.forEach(s => s.status = false);
