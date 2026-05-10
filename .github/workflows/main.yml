@@ -1,23 +1,23 @@
-name: Kaia_5m_Reload
+name: Kaia_Auto_Update
 on:
   schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+    - cron: '*/5 * * * *' # Chạy mỗi 5 phút
+  workflow_dispatch: # Cho phép bấm chạy thủ công
 jobs:
-  run:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
       - run: node update.js
-      - name: Push
+      - name: Commit and Push
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add realtime.json
-          git commit -m "Auto Update Kaia" || exit 0
-          git push
+          git commit -m "Update Kaia Game Data" || exit 0
+          git push origin main
