@@ -18,12 +18,12 @@
     {
       "name": "Hạt giống hoa hải quỳ (trắng)",
       "icon": "🌻",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt việt quất",
       "icon": "🫐",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa liên kiều",
@@ -160,12 +160,12 @@
     {
       "name": "Sương mù",
       "icon": "🌫️",
-      "status": true
+      "status": false
     },
     {
       "name": "Sương sớm",
       "icon": "🌬️",
-      "status": false
+      "status": true
     },
     {
       "name": "Ánh trăng",
