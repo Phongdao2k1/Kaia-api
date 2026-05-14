@@ -23,7 +23,7 @@
     {
       "name": "Hạt việt quất",
       "icon": "🫐",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa liên kiều",
@@ -83,7 +83,7 @@
     {
       "name": "Hạt táo",
       "icon": "🍎",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt nho",
@@ -155,7 +155,7 @@
     {
       "name": "Bão",
       "icon": "⚡",
-      "status": true
+      "status": false
     },
     {
       "name": "Sương mù",
@@ -165,7 +165,7 @@
     {
       "name": "Sương sớm",
       "icon": "🌬️",
-      "status": false
+      "status": true
     },
     {
       "name": "Ánh trăng",
