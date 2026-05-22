@@ -128,12 +128,12 @@
     {
       "name": "Hạt cây đậu",
       "icon": "🫛",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt khế",
       "icon": "🍋",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt táo đường",
@@ -200,12 +200,12 @@
     {
       "name": "Gió xuân",
       "icon": "🌸🍃",
-      "status": true
+      "status": false
     },
     {
       "name": "Giai điệu",
       "icon": "🎵",
-      "status": false
+      "status": true
     },
     {
       "name": "Sóng điện từ",
