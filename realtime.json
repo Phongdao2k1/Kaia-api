@@ -83,7 +83,7 @@
     {
       "name": "Hạt táo",
       "icon": "🍎",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt nho",
@@ -138,7 +138,7 @@
     {
       "name": "Hạt táo đường",
       "icon": "🍏",
-      "status": true
+      "status": false
     }
   ],
   "weather": [
@@ -155,7 +155,7 @@
     {
       "name": "Bão",
       "icon": "⚡",
-      "status": false
+      "status": true
     },
     {
       "name": "Sương mù",
@@ -210,7 +210,7 @@
     {
       "name": "Sóng điện từ",
       "icon": "📟",
-      "status": true
+      "status": false
     }
   ]
 }
