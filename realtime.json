@@ -3,12 +3,12 @@
     {
       "name": "Hạt cà rốt",
       "icon": "🥕",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt dâu tây",
       "icon": "🍓",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa nghệ tây (trắng)",
@@ -145,12 +145,12 @@
     {
       "name": "Tuyết",
       "icon": "❄️",
-      "status": false
+      "status": true
     },
     {
       "name": "Mưa",
       "icon": "🌧️",
-      "status": true
+      "status": false
     },
     {
       "name": "Bão",
