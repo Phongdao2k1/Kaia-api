@@ -18,7 +18,7 @@
     {
       "name": "Hạt giống hoa hải quỳ (trắng)",
       "icon": "🌻",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt việt quất",
@@ -53,7 +53,7 @@
     {
       "name": "Hạt bắp",
       "icon": "🌽",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt cà chua",
@@ -160,7 +160,7 @@
     {
       "name": "Sương mù",
       "icon": "🌫️",
-      "status": false
+      "status": true
     },
     {
       "name": "Sương sớm",
@@ -195,7 +195,7 @@
     {
       "name": "Bảo tuyết",
       "icon": "🌨️",
-      "status": true
+      "status": false
     },
     {
       "name": "Gió xuân",
