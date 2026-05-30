@@ -18,7 +18,7 @@
     {
       "name": "Hạt giống hoa hải quỳ (trắng)",
       "icon": "🌻",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt việt quất",
@@ -68,7 +68,7 @@
     {
       "name": "Hạt giống hoa thủy tiên (trắng)",
       "icon": "🌼",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa mận (trắng)",
@@ -160,7 +160,7 @@
     {
       "name": "Sương mù",
       "icon": "🌫️",
-      "status": false
+      "status": true
     },
     {
       "name": "Sương sớm",
@@ -210,7 +210,7 @@
     {
       "name": "Sóng điện từ",
       "icon": "📟",
-      "status": true
+      "status": false
     }
   ]
 }
