@@ -48,7 +48,7 @@
     {
       "name": "Hạt nấm",
       "icon": "🍄",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt bắp",
@@ -68,7 +68,7 @@
     {
       "name": "Hạt giống hoa thủy tiên (trắng)",
       "icon": "🌼",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa mận (trắng)",
@@ -190,7 +190,7 @@
     {
       "name": "Gió cát",
       "icon": "🌪️",
-      "status": false
+      "status": true
     },
     {
       "name": "Bảo tuyết",
@@ -210,7 +210,7 @@
     {
       "name": "Sóng điện từ",
       "icon": "📟",
-      "status": true
+      "status": false
     }
   ]
 }
