@@ -3,7 +3,7 @@
     {
       "name": "Hạt cà rốt",
       "icon": "🥕",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt dâu tây",
@@ -58,7 +58,7 @@
     {
       "name": "Hạt cà chua",
       "icon": "🍅",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống sung",
@@ -145,7 +145,7 @@
     {
       "name": "Tuyết",
       "icon": "❄️",
-      "status": false
+      "status": true
     },
     {
       "name": "Mưa",
@@ -200,7 +200,7 @@
     {
       "name": "Gió xuân",
       "icon": "🌸🍃",
-      "status": true
+      "status": false
     },
     {
       "name": "Giai điệu",
