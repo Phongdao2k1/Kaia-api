@@ -28,7 +28,7 @@
     {
       "name": "Hạt giống hoa liên kiều",
       "icon": "✨",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống tulip (trắng)",
@@ -63,7 +63,7 @@
     {
       "name": "Hạt giống sung",
       "icon": "🍒",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa thủy tiên (trắng)",
@@ -170,7 +170,7 @@
     {
       "name": "Ánh trăng",
       "icon": "🌕",
-      "status": true
+      "status": false
     },
     {
       "name": "Cực quang",
@@ -205,7 +205,7 @@
     {
       "name": "Giai điệu",
       "icon": "🎵",
-      "status": false
+      "status": true
     },
     {
       "name": "Sóng điện từ",
