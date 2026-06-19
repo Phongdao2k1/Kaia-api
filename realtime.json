@@ -8,7 +8,7 @@
     {
       "name": "Hạt dâu tây",
       "icon": "🍓",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa nghệ tây (trắng)",
@@ -28,7 +28,7 @@
     {
       "name": "Hạt giống hoa liên kiều",
       "icon": "✨",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống tulip (trắng)",
@@ -150,7 +150,7 @@
     {
       "name": "Mưa",
       "icon": "🌧️",
-      "status": false
+      "status": true
     },
     {
       "name": "Bão",
@@ -170,7 +170,7 @@
     {
       "name": "Ánh trăng",
       "icon": "🌕",
-      "status": true
+      "status": false
     },
     {
       "name": "Cực quang",
