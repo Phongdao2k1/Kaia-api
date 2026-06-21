@@ -33,12 +33,12 @@
     {
       "name": "Hạt giống tulip (trắng)",
       "icon": "🌷",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa đỗ quyên (trắng)",
       "icon": "🌺",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa mộc lan (trắng)",
@@ -175,12 +175,12 @@
     {
       "name": "Cực quang",
       "icon": "🌌",
-      "status": false
+      "status": true
     },
     {
       "name": "Gió",
       "icon": "🍃",
-      "status": true
+      "status": false
     },
     {
       "name": "Nắng nóng",
