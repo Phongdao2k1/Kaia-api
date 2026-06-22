@@ -48,7 +48,7 @@
     {
       "name": "Hạt nấm",
       "icon": "🍄",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt bắp",
@@ -88,7 +88,7 @@
     {
       "name": "Hạt nho",
       "icon": "🍇",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống măng cụt",
@@ -160,7 +160,7 @@
     {
       "name": "Sương mù",
       "icon": "🌫️",
-      "status": true
+      "status": false
     },
     {
       "name": "Sương sớm",
@@ -190,7 +190,7 @@
     {
       "name": "Gió cát",
       "icon": "🌪️",
-      "status": false
+      "status": true
     },
     {
       "name": "Bảo tuyết",
