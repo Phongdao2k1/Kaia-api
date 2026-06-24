@@ -28,7 +28,7 @@
     {
       "name": "Hạt giống hoa liên kiều",
       "icon": "✨",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống tulip (trắng)",
@@ -98,7 +98,7 @@
     {
       "name": "Hạt bí ngô",
       "icon": "🎃",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa anh đào (trắng)",
