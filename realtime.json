@@ -38,7 +38,7 @@
     {
       "name": "Hạt giống hoa đỗ quyên (trắng)",
       "icon": "🌺",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa mộc lan (trắng)",
@@ -108,7 +108,7 @@
     {
       "name": "Hạt dưa hấu",
       "icon": "🍉",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt dừa",
