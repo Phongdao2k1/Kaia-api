@@ -43,7 +43,7 @@
     {
       "name": "Hạt giống hoa mộc lan (trắng)",
       "icon": "🏵️",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt nấm",
@@ -113,7 +113,7 @@
     {
       "name": "Hạt dừa",
       "icon": "🥥",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt xoài",
