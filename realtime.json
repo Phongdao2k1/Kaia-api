@@ -48,7 +48,7 @@
     {
       "name": "Hạt nấm",
       "icon": "🍄",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt bắp",
@@ -118,7 +118,7 @@
     {
       "name": "Hạt xoài",
       "icon": "🥭",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt đu đủ",
