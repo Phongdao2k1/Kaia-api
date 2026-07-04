@@ -48,7 +48,7 @@
     {
       "name": "Hạt nấm",
       "icon": "🍄",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt bắp",
@@ -128,7 +128,7 @@
     {
       "name": "Hạt cây đậu",
       "icon": "🫛",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt khế",
@@ -190,7 +190,7 @@
     {
       "name": "Gió cát",
       "icon": "🌪️",
-      "status": false
+      "status": true
     },
     {
       "name": "Bảo tuyết",
@@ -200,7 +200,7 @@
     {
       "name": "Gió xuân",
       "icon": "🌸🍃",
-      "status": true
+      "status": false
     },
     {
       "name": "Giai điệu",
