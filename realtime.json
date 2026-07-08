@@ -8,7 +8,7 @@
     {
       "name": "Hạt dâu tây",
       "icon": "🍓",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa nghệ tây (trắng)",
@@ -118,7 +118,7 @@
     {
       "name": "Hạt xoài",
       "icon": "🥭",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt đu đủ",
@@ -150,7 +150,7 @@
     {
       "name": "Mưa",
       "icon": "🌧️",
-      "status": true
+      "status": false
     },
     {
       "name": "Bão",
@@ -190,7 +190,7 @@
     {
       "name": "Gió cát",
       "icon": "🌪️",
-      "status": false
+      "status": true
     },
     {
       "name": "Bảo tuyết",
