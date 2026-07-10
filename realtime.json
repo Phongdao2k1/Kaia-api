@@ -13,7 +13,7 @@
     {
       "name": "Hạt giống hoa nghệ tây (trắng)",
       "icon": "🌷",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa hải quỳ (trắng)",
@@ -83,7 +83,7 @@
     {
       "name": "Hạt táo",
       "icon": "🍎",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt nho",
