@@ -68,7 +68,7 @@
     {
       "name": "Hạt giống hoa thủy tiên (trắng)",
       "icon": "🌼",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa mận (trắng)",
@@ -138,7 +138,7 @@
     {
       "name": "Hạt táo đường",
       "icon": "🍏",
-      "status": false
+      "status": true
     }
   ],
   "weather": [
