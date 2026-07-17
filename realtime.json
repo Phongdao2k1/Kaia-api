@@ -48,7 +48,7 @@
     {
       "name": "Hạt nấm",
       "icon": "🍄",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt bắp",
@@ -98,7 +98,7 @@
     {
       "name": "Hạt bí ngô",
       "icon": "🎃",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa anh đào (trắng)",
@@ -170,7 +170,7 @@
     {
       "name": "Ánh trăng",
       "icon": "🌕",
-      "status": false
+      "status": true
     },
     {
       "name": "Cực quang",
@@ -190,7 +190,7 @@
     {
       "name": "Gió cát",
       "icon": "🌪️",
-      "status": true
+      "status": false
     },
     {
       "name": "Bảo tuyết",
