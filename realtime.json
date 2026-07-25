@@ -108,12 +108,12 @@
     {
       "name": "Hạt dưa hấu",
       "icon": "🍉",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt dừa",
       "icon": "🥥",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt xoài",
@@ -180,12 +180,12 @@
     {
       "name": "Gió",
       "icon": "🍃",
-      "status": false
+      "status": true
     },
     {
       "name": "Nắng nóng",
       "icon": "☀️",
-      "status": true
+      "status": false
     },
     {
       "name": "Gió cát",
