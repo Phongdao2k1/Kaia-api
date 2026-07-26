@@ -23,7 +23,7 @@
     {
       "name": "Hạt việt quất",
       "icon": "🫐",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa liên kiều",
@@ -73,7 +73,7 @@
     {
       "name": "Hạt giống hoa mận (trắng)",
       "icon": "💮",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt xương rồng",
@@ -145,7 +145,7 @@
     {
       "name": "Tuyết",
       "icon": "❄️",
-      "status": false
+      "status": true
     },
     {
       "name": "Mưa",
@@ -165,7 +165,7 @@
     {
       "name": "Sương sớm",
       "icon": "🌬️",
-      "status": true
+      "status": false
     },
     {
       "name": "Ánh trăng",
