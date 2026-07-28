@@ -118,12 +118,12 @@
     {
       "name": "Hạt xoài",
       "icon": "🥭",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt đu đủ",
       "icon": "🍐",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt cây đậu",
@@ -190,12 +190,12 @@
     {
       "name": "Gió cát",
       "icon": "🌪️",
-      "status": true
+      "status": false
     },
     {
       "name": "Bảo tuyết",
       "icon": "🌨️",
-      "status": false
+      "status": true
     },
     {
       "name": "Gió xuân",
