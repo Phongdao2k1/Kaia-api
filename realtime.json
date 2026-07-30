@@ -58,7 +58,7 @@
     {
       "name": "Hạt cà chua",
       "icon": "🍅",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống sung",
@@ -133,7 +133,7 @@
     {
       "name": "Hạt khế",
       "icon": "🍋",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt táo đường",
@@ -200,12 +200,12 @@
     {
       "name": "Gió xuân",
       "icon": "🌸🍃",
-      "status": false
+      "status": true
     },
     {
       "name": "Giai điệu",
       "icon": "🎵",
-      "status": true
+      "status": false
     },
     {
       "name": "Sóng điện từ",
