@@ -58,7 +58,7 @@
     {
       "name": "Hạt cà chua",
       "icon": "🍅",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống sung",
@@ -128,7 +128,7 @@
     {
       "name": "Hạt cây đậu",
       "icon": "🫛",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt khế",
