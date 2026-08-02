@@ -18,7 +18,7 @@
     {
       "name": "Hạt giống hoa hải quỳ (trắng)",
       "icon": "🌻",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt việt quất",
@@ -88,7 +88,7 @@
     {
       "name": "Hạt nho",
       "icon": "🍇",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống măng cụt",
