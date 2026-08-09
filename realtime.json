@@ -83,7 +83,7 @@
     {
       "name": "Hạt táo",
       "icon": "🍎",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt nho",
@@ -133,7 +133,7 @@
     {
       "name": "Hạt khế",
       "icon": "🍋",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt táo đường",
@@ -155,7 +155,7 @@
     {
       "name": "Bão",
       "icon": "⚡",
-      "status": true
+      "status": false
     },
     {
       "name": "Sương mù",
@@ -205,7 +205,7 @@
     {
       "name": "Giai điệu",
       "icon": "🎵",
-      "status": false
+      "status": true
     },
     {
       "name": "Sóng điện từ",
