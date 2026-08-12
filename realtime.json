@@ -8,7 +8,7 @@
     {
       "name": "Hạt dâu tây",
       "icon": "🍓",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa nghệ tây (trắng)",
@@ -78,7 +78,7 @@
     {
       "name": "Hạt xương rồng",
       "icon": "🌵",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt táo",
