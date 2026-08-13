@@ -43,7 +43,7 @@
     {
       "name": "Hạt giống hoa mộc lan (trắng)",
       "icon": "🏵️",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt nấm",
@@ -93,7 +93,7 @@
     {
       "name": "Hạt giống măng cụt",
       "icon": "🫐",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt bí ngô",
@@ -165,7 +165,7 @@
     {
       "name": "Sương sớm",
       "icon": "🌬️",
-      "status": false
+      "status": true
     },
     {
       "name": "Ánh trăng",
@@ -185,7 +185,7 @@
     {
       "name": "Nắng nóng",
       "icon": "☀️",
-      "status": true
+      "status": false
     },
     {
       "name": "Gió cát",
