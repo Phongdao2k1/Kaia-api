@@ -3,7 +3,7 @@
     {
       "name": "Hạt cà rốt",
       "icon": "🥕",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt dâu tây",
@@ -98,7 +98,7 @@
     {
       "name": "Hạt bí ngô",
       "icon": "🎃",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa anh đào (trắng)",
@@ -145,7 +145,7 @@
     {
       "name": "Tuyết",
       "icon": "❄️",
-      "status": false
+      "status": true
     },
     {
       "name": "Mưa",
@@ -170,7 +170,7 @@
     {
       "name": "Ánh trăng",
       "icon": "🌕",
-      "status": true
+      "status": false
     },
     {
       "name": "Cực quang",
