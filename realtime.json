@@ -83,7 +83,7 @@
     {
       "name": "Hạt táo",
       "icon": "🍎",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt nho",
@@ -113,7 +113,7 @@
     {
       "name": "Hạt dừa",
       "icon": "🥥",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt xoài",
@@ -155,7 +155,7 @@
     {
       "name": "Bão",
       "icon": "⚡",
-      "status": true
+      "status": false
     },
     {
       "name": "Sương mù",
@@ -185,7 +185,7 @@
     {
       "name": "Nắng nóng",
       "icon": "☀️",
-      "status": false
+      "status": true
     },
     {
       "name": "Gió cát",
