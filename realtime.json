@@ -38,7 +38,7 @@
     {
       "name": "Hạt giống hoa đỗ quyên (trắng)",
       "icon": "🌺",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa mộc lan (trắng)",
@@ -48,7 +48,7 @@
     {
       "name": "Hạt nấm",
       "icon": "🍄",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt bắp",
@@ -180,7 +180,7 @@
     {
       "name": "Gió",
       "icon": "🍃",
-      "status": false
+      "status": true
     },
     {
       "name": "Nắng nóng",
@@ -190,7 +190,7 @@
     {
       "name": "Gió cát",
       "icon": "🌪️",
-      "status": true
+      "status": false
     },
     {
       "name": "Bảo tuyết",
