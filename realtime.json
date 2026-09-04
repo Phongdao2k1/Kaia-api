@@ -28,7 +28,7 @@
     {
       "name": "Hạt giống hoa liên kiều",
       "icon": "✨",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống tulip (trắng)",
@@ -38,7 +38,7 @@
     {
       "name": "Hạt giống hoa đỗ quyên (trắng)",
       "icon": "🌺",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa mộc lan (trắng)",
@@ -170,7 +170,7 @@
     {
       "name": "Ánh trăng",
       "icon": "🌕",
-      "status": false
+      "status": true
     },
     {
       "name": "Cực quang",
@@ -180,7 +180,7 @@
     {
       "name": "Gió",
       "icon": "🍃",
-      "status": true
+      "status": false
     },
     {
       "name": "Nắng nóng",
