@@ -33,7 +33,7 @@
     {
       "name": "Hạt giống tulip (trắng)",
       "icon": "🌷",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa đỗ quyên (trắng)",
@@ -93,7 +93,7 @@
     {
       "name": "Hạt giống măng cụt",
       "icon": "🫐",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt bí ngô",
@@ -165,7 +165,7 @@
     {
       "name": "Sương sớm",
       "icon": "🌬️",
-      "status": true
+      "status": false
     },
     {
       "name": "Ánh trăng",
@@ -175,7 +175,7 @@
     {
       "name": "Cực quang",
       "icon": "🌌",
-      "status": false
+      "status": true
     },
     {
       "name": "Gió",
