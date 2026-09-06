@@ -43,7 +43,7 @@
     {
       "name": "Hạt giống hoa mộc lan (trắng)",
       "icon": "🏵️",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt nấm",
@@ -78,7 +78,7 @@
     {
       "name": "Hạt xương rồng",
       "icon": "🌵",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt táo",
@@ -150,7 +150,7 @@
     {
       "name": "Mưa",
       "icon": "🌧️",
-      "status": true
+      "status": false
     },
     {
       "name": "Bão",
@@ -185,7 +185,7 @@
     {
       "name": "Nắng nóng",
       "icon": "☀️",
-      "status": false
+      "status": true
     },
     {
       "name": "Gió cát",
