@@ -78,12 +78,12 @@
     {
       "name": "Hạt xương rồng",
       "icon": "🌵",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt táo",
       "icon": "🍎",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt nho",
@@ -150,12 +150,12 @@
     {
       "name": "Mưa",
       "icon": "🌧️",
-      "status": true
+      "status": false
     },
     {
       "name": "Bão",
       "icon": "⚡",
-      "status": false
+      "status": true
     },
     {
       "name": "Sương mù",
