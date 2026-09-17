@@ -43,12 +43,12 @@
     {
       "name": "Hạt giống hoa mộc lan (trắng)",
       "icon": "🏵️",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt nấm",
       "icon": "🍄",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt bắp",
@@ -185,12 +185,12 @@
     {
       "name": "Nắng nóng",
       "icon": "☀️",
-      "status": true
+      "status": false
     },
     {
       "name": "Gió cát",
       "icon": "🌪️",
-      "status": false
+      "status": true
     },
     {
       "name": "Bảo tuyết",
