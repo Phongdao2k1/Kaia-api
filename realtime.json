@@ -23,7 +23,7 @@
     {
       "name": "Hạt việt quất",
       "icon": "🫐",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa liên kiều",
@@ -93,7 +93,7 @@
     {
       "name": "Hạt giống măng cụt",
       "icon": "🫐",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt bí ngô",
