@@ -53,7 +53,7 @@
     {
       "name": "Hạt bắp",
       "icon": "🌽",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt cà chua",
@@ -93,7 +93,7 @@
     {
       "name": "Hạt giống măng cụt",
       "icon": "🫐",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt bí ngô",
@@ -165,7 +165,7 @@
     {
       "name": "Sương sớm",
       "icon": "🌬️",
-      "status": false
+      "status": true
     },
     {
       "name": "Ánh trăng",
@@ -195,7 +195,7 @@
     {
       "name": "Bảo tuyết",
       "icon": "🌨️",
-      "status": true
+      "status": false
     },
     {
       "name": "Gió xuân",
