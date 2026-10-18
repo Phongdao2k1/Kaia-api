@@ -63,7 +63,7 @@
     {
       "name": "Hạt giống sung",
       "icon": "🍒",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa thủy tiên (trắng)",
@@ -138,7 +138,7 @@
     {
       "name": "Hạt táo đường",
       "icon": "🍏",
-      "status": false
+      "status": true
     }
   ],
   "weather": [
@@ -205,12 +205,12 @@
     {
       "name": "Giai điệu",
       "icon": "🎵",
-      "status": true
+      "status": false
     },
     {
       "name": "Sóng điện từ",
       "icon": "📟",
-      "status": false
+      "status": true
     }
   ]
 }
