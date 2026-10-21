@@ -3,7 +3,7 @@
     {
       "name": "Hạt cà rốt",
       "icon": "🥕",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt dâu tây",
@@ -73,7 +73,7 @@
     {
       "name": "Hạt giống hoa mận (trắng)",
       "icon": "💮",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt xương rồng",
