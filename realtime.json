@@ -88,12 +88,12 @@
     {
       "name": "Hạt nho",
       "icon": "🍇",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống măng cụt",
       "icon": "🫐",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt bí ngô",
@@ -160,12 +160,12 @@
     {
       "name": "Sương mù",
       "icon": "🌫️",
-      "status": true
+      "status": false
     },
     {
       "name": "Sương sớm",
       "icon": "🌬️",
-      "status": false
+      "status": true
     },
     {
       "name": "Ánh trăng",
