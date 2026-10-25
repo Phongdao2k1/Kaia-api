@@ -103,7 +103,7 @@
     {
       "name": "Hạt giống hoa anh đào (trắng)",
       "icon": "🌸",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt dưa hấu",
@@ -123,7 +123,7 @@
     {
       "name": "Hạt đu đủ",
       "icon": "🍐",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt cây đậu",
@@ -175,7 +175,7 @@
     {
       "name": "Cực quang",
       "icon": "🌌",
-      "status": false
+      "status": true
     },
     {
       "name": "Gió",
@@ -195,7 +195,7 @@
     {
       "name": "Bảo tuyết",
       "icon": "🌨️",
-      "status": true
+      "status": false
     },
     {
       "name": "Gió xuân",
