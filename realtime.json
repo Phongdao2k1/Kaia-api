@@ -78,7 +78,7 @@
     {
       "name": "Hạt xương rồng",
       "icon": "🌵",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt táo",
@@ -118,7 +118,7 @@
     {
       "name": "Hạt xoài",
       "icon": "🥭",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt đu đủ",
@@ -150,7 +150,7 @@
     {
       "name": "Mưa",
       "icon": "🌧️",
-      "status": false
+      "status": true
     },
     {
       "name": "Bão",
@@ -190,7 +190,7 @@
     {
       "name": "Gió cát",
       "icon": "🌪️",
-      "status": true
+      "status": false
     },
     {
       "name": "Bảo tuyết",
