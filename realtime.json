@@ -53,7 +53,7 @@
     {
       "name": "Hạt bắp",
       "icon": "🌽",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt cà chua",
@@ -118,7 +118,7 @@
     {
       "name": "Hạt xoài",
       "icon": "🥭",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt đu đủ",
@@ -190,12 +190,12 @@
     {
       "name": "Gió cát",
       "icon": "🌪️",
-      "status": false
+      "status": true
     },
     {
       "name": "Bảo tuyết",
       "icon": "🌨️",
-      "status": true
+      "status": false
     },
     {
       "name": "Gió xuân",
