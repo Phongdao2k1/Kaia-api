@@ -13,12 +13,12 @@
     {
       "name": "Hạt giống hoa nghệ tây (trắng)",
       "icon": "🌷",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống hoa hải quỳ (trắng)",
       "icon": "🌻",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt việt quất",
@@ -155,12 +155,12 @@
     {
       "name": "Bão",
       "icon": "⚡",
-      "status": false
+      "status": true
     },
     {
       "name": "Sương mù",
       "icon": "🌫️",
-      "status": true
+      "status": false
     },
     {
       "name": "Sương sớm",
