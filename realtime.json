@@ -58,12 +58,12 @@
     {
       "name": "Hạt cà chua",
       "icon": "🍅",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt giống sung",
       "icon": "🍒",
-      "status": true
+      "status": false
     },
     {
       "name": "Hạt giống hoa thủy tiên (trắng)",
@@ -200,12 +200,12 @@
     {
       "name": "Gió xuân",
       "icon": "🌸🍃",
-      "status": false
+      "status": true
     },
     {
       "name": "Giai điệu",
       "icon": "🎵",
-      "status": true
+      "status": false
     },
     {
       "name": "Sóng điện từ",
