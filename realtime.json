@@ -73,7 +73,7 @@
     {
       "name": "Hạt giống hoa mận (trắng)",
       "icon": "💮",
-      "status": false
+      "status": true
     },
     {
       "name": "Hạt xương rồng",
@@ -138,14 +138,14 @@
     {
       "name": "Hạt táo đường",
       "icon": "🍏",
-      "status": true
+      "status": false
     }
   ],
   "weather": [
     {
       "name": "Tuyết",
       "icon": "❄️",
-      "status": false
+      "status": true
     },
     {
       "name": "Mưa",
@@ -210,7 +210,7 @@
     {
       "name": "Sóng điện từ",
       "icon": "📟",
-      "status": true
+      "status": false
     }
   ]
 }
